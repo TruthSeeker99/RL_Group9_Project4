@@ -3,7 +3,8 @@
 This repository contains the implementation for **WPI-DS551 Reinforcement Learning Project 4**.
 
 ## Resources
-- **Demo Video**: [Download here](https://drive.google.com/file/d/1SX8rwjAEx3dLwKO7aByH1MT2DFZ4lQgL/)  
+- **Demo Video 1**: [Download here](https://drive.google.com/file/d/1SX8rwjAEx3dLwKO7aByH1MT2DFZ4lQgL/) 
+- **Demo Video 2**: [Download here](https://drive.google.com/file/d/1i4wM6KSwbwIwzZ3opqHIV07MsaObxOZZ/) 
 - **Model Checkpoints**: [Download here](https://drive.google.com/file/d/1BUSAON2ULaxpbSSDfPr5Vu5ewUKGcFEA/) and place them into the `./ckpts/` directory.  
 - **ROM File**: [Download here](https://wowroms.com/en/roms/mame/street-fighter-iii-3rd-strike-fight-for-the-futur-japan-clone/106255.html).  
 
